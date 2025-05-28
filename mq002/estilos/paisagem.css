@@ -1,2 +1,8 @@
 @charset "UTF-8";
-/* Estilos para landscape */
+/** Estilos para landscape */
+
+
+
+body {
+    background: url(../imagens/cev-landscape.jpg) no-repeat center center / cover;
+}
